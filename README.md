@@ -65,12 +65,16 @@ b.  KCL:
 ![Output](kcl.png)
 
 Tabulation:
+
 a.   KVL:
 
  ![Output](kkvl.png)
  
 b.  KCL:
+
 ![Output](kkcl.png)
 
+
 RESULT:
+
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
