@@ -38,11 +38,13 @@ CIRCUIT DIAGRAM:
 Calculation:
 a.   KVL:           
  ![Output](kvl.png)
-b.  KCL:
- ![Output](kcl.png)
 Tabulation:
 a.   KVL:             
- ![Output](kkvl.png)    
+ ![Output](kkvl.png)
+Calculation :
+b.  KCL:
+ ![Output](kcl.png)
+Tabulation
 b.  KCL:
 ![Output](kkcl.png)
 CIRCUIT DIAGRAM:
