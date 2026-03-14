@@ -63,10 +63,8 @@ a.   KVL:
 b.  KCL:
 
 ![Output](kcl.png)
-
 Tabulation:
 a.   KVL:
-
  ![Output](kkvl.png)
  
 b.  KCL:
