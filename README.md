@@ -42,35 +42,19 @@ CIRCUIT DIAGRAM:
 ![Output](c1.png)
 ![Output](c2.png)
 CIRCUIT DIAGRAM:
-
 a.   KVL:
    ![Output](kvlcir.png) 
-
-
 b.  KCL:
  ![Output](kclcir.png)
-
 Calculation:
-
-a.   KVL:
-        
+a.   KVL:        
  ![Output](kvl.png)
-
 b.  KCL:
 ![Output](kcl.png)
-
-
-
 Tabulation:
-
 a.   KVL:
  ![Output](kkvl.png)
-
-
 b.  KCL:
 ![Output](kkcl.png)
-
-
 RESULT:
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
