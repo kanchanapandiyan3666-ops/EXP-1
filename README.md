@@ -44,7 +44,7 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+      
 
 
 b.  KCL:
@@ -53,8 +53,8 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+        
  
-
 
 b.  KCL:
 
