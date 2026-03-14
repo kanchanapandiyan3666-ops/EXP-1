@@ -3,7 +3,6 @@ EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
-
 APPARATUS REQUIRED:
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
@@ -12,7 +11,6 @@ S.No.	Components	Range	Quantity
 4	Bread Board		1
 5	Regulated Power Supply	(0-30)V	1
 6	Connecting wires		As required
-
 THEORY:
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 KCL:
@@ -42,10 +40,8 @@ a.   KVL:
    ![Output](kvlcir.png) 
 b.  KCL:
  ![Output](kclcir.png)
- 
 Calculation:
 a.   KVL:   
-
  ![Output](kvl.png)
 b.  KCL:
 ![Output](kcl.png)
@@ -53,10 +49,7 @@ Tabulation:
 a.   KVL:
  ![Output](kkvl.png)
 b.  KCL:
-
 ![Output](kkcl.png)
-
-
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
