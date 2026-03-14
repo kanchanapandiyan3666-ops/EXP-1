@@ -17,8 +17,6 @@ THEORY:
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
-
-
 PROCEDURE:
 a.   KVL:
 1.   Connect as per the circuit diagram.
@@ -28,8 +26,6 @@ a.   KVL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the voltmeter connected across each resistor.
 7.   Take readings for different values of input voltage and tabulate them.
-
-
 b.  KCL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -41,7 +37,6 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 ![Output](c1.png)
-
 ![Output](c2.png)
 
 CIRCUIT DIAGRAM:
